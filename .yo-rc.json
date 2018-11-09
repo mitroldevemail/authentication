@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "applicationType": "uaa",
+    "gitCompany": "",
+    "baseName": "authentication",
+    "packageName": "com.mitrol.authentication",
+    "packageFolder": "com/mitrol/authentication",
+    "serverPort": 9999,
+    "serviceDiscoveryType": "eureka",
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "gradle",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "es",
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.6.1",
+    "jwtSecretKey": "NTI3ZDM4ODlmYTE0M2UyZGFhNmVmMTE4ZTliM2U5MjQ1Y2JmOWFkMDg2YjgzMjRkMjkzYWZkOTIwMjJiZDg5NDQ4MWI3ZjFjMTcyNDg2ZGNkN2M1ZDliZGRlMDhiMzRmN2RhYTI1YjY3NjE5M2U4NzM5ZDUzNjI0YjdlMzZiZjA=",
+    "skipClient": true
+  },
+  "git-provider": "GitHub",
+  "git-company": "mitroldevemail",
+  "repository-name": "authentication"
+}
